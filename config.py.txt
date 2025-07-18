@@ -1,0 +1,5 @@
+# بيانات البوت من BotFather
+BOT_TOKEN = "7600865255:AAHSniwhoGIM9B8TdtvmiOFWj-GlrF07A5w"
+
+# معرفك الشخصي على تيليجرام
+USER_ID = 7160072273
